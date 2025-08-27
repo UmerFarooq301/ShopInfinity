@@ -1,11 +1,11 @@
-import Football from "../../assets/Football.PNG";
-import Bats from "../../assets/Bats.PNG"
-import Batminton  from "../../assets/Batminton.PNG"
-import Cricketballs  from "../../assets/Cricketballs.PNG"
-import WeightingStraps  from "../../assets/WeightingStraps.PNG"
-import WorkoutGloves   from "../../assets/WorkoutGloves.PNG"
-import Treadmill from "../../assets/Treadmill.PNG"
-import RecumbentBike from "../../assets/RecumbentBike.PNG"
+import Football from "../../assets/Football.webp";
+import Bats from "../../assets/Bats.webp"
+import Batminton  from "../../assets/Batminton.webp"
+import Cricketballs  from "../../assets/Cricketballs.webp"
+import WeightingStraps  from "../../assets/WeightingStraps.webp"
+import WorkoutGloves   from "../../assets/WorkoutGloves.webp"
+import Treadmill from "../../assets/Treadmill.webp"
+import RecumbentBike from "../../assets/RecumbentBike.webp"
 
 
 const Sports = [

@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-import HeroPentShirts from "../../assets/HeroPentShirts.jpg";
-import Watches from "../../assets/Watches.jpg";
-import ShalKamMen from "../../assets/ShalKam-Men.jpg";
-import BeautyParlor from "../../assets/Beauty&parlor.PNG";
-import ShalKamWomen from "../../assets/Shalkam-women.jpg";
-import Mobiles from "../../assets/Mobiles.jpg";
-import Laptops from "../../assets/Laptops.jpg";
-import Headphones from "../../assets/Headphones.jpg";
-import Smartwatches from "../../assets/Smartwatches.PNG";
-import MenShoes from "../../assets/Shoes.jpg";
-import Sports from "../../assets/Sports.jpg";
+import HeroPentShirts from "../../assets/HeroPentShirts.webp";
+import Watches from "../../assets/Watches.webp";
+import ShalKamMen from "../../assets/ShalKam-Men.webp";
+import BeautyParlor from "../../assets/Beauty&parlor.webp";
+import ShalKamWomen from "../../assets/Shalkam-women.webp";
+import Mobiles from "../../assets/Mobiles.webp";
+import Laptops from "../../assets/Laptops.webp";
+import Headphones from "../../assets/Headphones.webp";
+import Smartwatches from "../../assets/Smartwatches.webp";
+import MenShoes from "../../assets/Shoes.webp";
+import Sports from "../../assets/Sports.webp";
 import categories from "../../Pages/Categories/Categories";
 
 const imageSlides = [

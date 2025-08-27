@@ -1,8 +1,8 @@
 import React from "react";
-import appstorebtn from "../../assets/appstore-btn.png";
-import American from '../../assets/American.jpg'
-import Master from '../../assets/Master.jpg'
-import Visa from '../../assets/visa.png'
+import appstorebtn from "../../assets/appstore-btn.webp";
+import American from '../../assets/American.webp'
+import Master from '../../assets/Master.webp'
+import Visa from '../../assets/visa.webp'
 import { NavLink } from "react-router-dom";
 import { LiaCopyrightSolid } from "react-icons/lia";
 import { FaFacebook } from "react-icons/fa";

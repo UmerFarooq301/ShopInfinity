@@ -1,11 +1,11 @@
-import Swad from "../../assets/Swad.PNG";
-import CokeCartoon from "../../assets/CokeCartoon.PNG"
-import Milk  from "../../assets/Milk.PNG"
-import Nido  from "../../assets/Nido.PNG"
-import Oils  from "../../assets/Oils.PNG"
-import FrozenFood  from "../../assets/FrozenFood.PNG"
-import Butter from "../../assets/Butter.PNG"
-import IceCream from "../../assets/IceCream.PNG"
+import Swad from "../../assets/Swad.webp";
+import CokeCartoon from "../../assets/CokeCartoon.webp"
+import Milk  from "../../assets/Milk.webp"
+import Nido  from "../../assets/Nido.webp"
+import Oils  from "../../assets/Oils.webp"
+import FrozenFood  from "../../assets/FrozenFood.webp"
+import Butter from "../../assets/Butter.webp"
+import IceCream from "../../assets/IceCream.webp"
 
 
 const Groceries = [

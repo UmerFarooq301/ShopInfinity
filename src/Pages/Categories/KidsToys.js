@@ -1,11 +1,11 @@
-import BeanBag from "../../assets/BeanBag.PNG";
-import RacingSports from "../../assets/RacingSports.PNG"
-import STEMRobot  from "../../assets/STEMRobot.PNG"
-import JOYINArcade  from "../../assets/JOYINArcade.PNG"
-import ColorfulLighting  from "../../assets/ColorfulLighting.PNG"
-import ToysCars from "../../assets/ToysCars.PNG"
-import Toss from "../../assets/Toss.PNG"
-import BallSets from "../../assets/BallSets.PNG"
+import BeanBag from "../../assets/BeanBag.webp";
+import RacingSports from "../../assets/RacingSports.webp"
+import STEMRobot  from "../../assets/STEMRobot.webp"
+import JOYINArcade  from "../../assets/JOYINArcade.webp"
+import ColorfulLighting  from "../../assets/ColorfulLighting.webp"
+import ToysCars from "../../assets/ToysCars.webp"
+import Toss from "../../assets/Toss.webp"
+import BallSets from "../../assets/BallSets.webp"
 
 
 const KidsToys = [

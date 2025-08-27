@@ -1,11 +1,11 @@
-import Brown from "../../assets/Brown.PNG";
-import OffWhite from "../../assets/OffWhite.PNG"
-import DarkBlue  from "../../assets/DarkBlue.PNG"
-import Gray  from "../../assets/Gray.PNG"
-import DressCoat  from "../../assets/DressCoat.PNG"
-import BlackTee  from "../../assets/BlackTee.PNG"
-import OceanYarn from "../../assets/OceanYarn.PNG"
-import BlackBasic from "../../assets/BlackBasic.PNG"
+import Brown from "../../assets/Brown.webp";
+import OffWhite from "../../assets/OffWhite.webp"
+import DarkBlue  from "../../assets/DarkBlue.webp"
+import Gray  from "../../assets/Gray.webp"
+import DressCoat  from "../../assets/DressCoat.webp"
+import BlackTee  from "../../assets/BlackTee.webp"
+import OceanYarn from "../../assets/OceanYarn.webp"
+import BlackBasic from "../../assets/BlackBasic.webp"
 
 
 const CasualWestern = [

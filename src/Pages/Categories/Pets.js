@@ -1,11 +1,11 @@
-import WirelessDog from "../../assets/WirelessDog.PNG";
-import GroomingScissors from "../../assets/GroomingScissors.PNG"
-import PillowPets  from "../../assets/PillowPets.PNG"
-import PetExpert  from "../../assets/PetExpert.PNG"
-import BedCouch  from "../../assets/BedCouch.PNG"
-import WashablePads   from "../../assets/WashablePads.PNG"
-import CerdaSet from "../../assets/CerdaSet.PNG"
-import Shark from "../../assets/Shark.PNG"
+import WirelessDog from "../../assets/WirelessDog.webp";
+import GroomingScissors from "../../assets/GroomingScissors.webp"
+import PillowPets  from "../../assets/PillowPets.webp"
+import PetExpert  from "../../assets/PetExpert.webp"
+import BedCouch  from "../../assets/BedCouch.webp"
+import WashablePads   from "../../assets/WashablePads.webp"
+import CerdaSet from "../../assets/CerdaSet.webp"
+import Shark from "../../assets/Shark.webp"
 
 
 const Pets = [

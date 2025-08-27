@@ -1,11 +1,11 @@
-import HomeTheaterProjector from "../../assets/HomeTheaterProjector.PNG";
-import Led from "../../assets/Led.PNG"
-import HeadPhoneGame  from "../../assets/HeadPhoneGame.PNG"
-import CeilingFan  from "../../assets/CeilingFan.PNG"
-import UVT3PLUS  from "../../assets/UVT3PLUS.PNG"
-import TonMegatron   from "../../assets/TonMegatron.PNG"
-import GamingLaptop from "../../assets/GamingLaptop.PNG"
-import WashingMachine from "../../assets/WashingMachine.PNG"
+import HomeTheaterProjector from "../../assets/HomeTheaterProjector.webp";
+import Led from "../../assets/Led.webp"
+import HeadPhoneGame  from "../../assets/HeadPhoneGame.webp"
+import CeilingFan  from "../../assets/CeilingFan.webp"
+import UVT3PLUS  from "../../assets/UVT3PLUS.webp"
+import TonMegatron   from "../../assets/TonMegatron.webp"
+import GamingLaptop from "../../assets/GamingLaptop.webp"
+import WashingMachine from "../../assets/WashingMachine.webp"
 
 
 const ElectronicsGadgets = [

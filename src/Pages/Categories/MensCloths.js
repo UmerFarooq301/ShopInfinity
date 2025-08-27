@@ -1,11 +1,11 @@
-import LightGray from "../../assets/LightGray.PNG";
-import GraphiteGrey from "../../assets/GraphiteGrey.PNG"
-import Mehndi  from "../../assets/Mehndi.PNG"
-import White  from "../../assets/White.PNG"
-import Teal  from "../../assets/Teal.PNG"
-import Peach  from "../../assets/Peach.PNG"
-import JetBlack from "../../assets/JetBlack.PNG"
-import YellowBrown from "../../assets/YellowBrown.PNG"
+import LightGray from "../../assets/LightGray.webp";
+import GraphiteGrey from "../../assets/GraphiteGrey.webp"
+import Mehndi  from "../../assets/Mehndi.webp"
+import White  from "../../assets/White.webp"
+import Teal  from "../../assets/Teal.webp"
+import Peach  from "../../assets/Peach.webp"
+import JetBlack from "../../assets/JetBlack.webp"
+import YellowBrown from "../../assets/YellowBrown.webp"
 
 
 const MensCloths = [

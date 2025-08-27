@@ -1,11 +1,11 @@
-import Green from "../../assets/Green.PNG";
-import Lvory from "../../assets/Lvory.PNG"
-import DeepOchre  from "../../assets/DeepOchre.PNG"
-import Plum  from "../../assets/Plum.PNG"
-import Red  from "../../assets/Red.PNG"
-import Black  from "../../assets/Black.PNG"
-import OrangeWhite from "../../assets/OrangeWhite.PNG"
-import Pink from "../../assets/Pink.PNG"
+import Green from "../../assets/Green.webp";
+import Lvory from "../../assets/Lvory.webp"
+import DeepOchre  from "../../assets/DeepOchre.webp"
+import Plum  from "../../assets/Plum.webp"
+import Red  from "../../assets/Red.webp"
+import Black  from "../../assets/Black.webp"
+import OrangeWhite from "../../assets/OrangeWhite.webp"
+import Pink from "../../assets/Pink.webp"
 
 
 const WomensClothing = [

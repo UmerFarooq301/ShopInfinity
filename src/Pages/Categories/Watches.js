@@ -1,11 +1,11 @@
-import LeatherBlack from "../../assets/LeatherBlack.PNG";
-import StainlessSteel from "../../assets/StainlessSteel.PNG"
-import LENQINBlue  from "../../assets/LENQINBlue.PNG"
-import WaterproofFitness  from "../../assets/WaterproofFitness.PNG"
-import CasualSport   from "../../assets/CasualSport.PNG"
-import LEDBacklight   from "../../assets/LEDBacklight.PNG"
-import MilitarySmartwatches from "../../assets/MilitarySmartwatches.PNG"
-import DiamondRoman from "../../assets/DiamondRoman.PNG"
+import LeatherBlack from "../../assets/LeatherBlack.webp";
+import StainlessSteel from "../../assets/StainlessSteel.webp"
+import LENQINBlue  from "../../assets/LENQINBlue.webp"
+import WaterproofFitness  from "../../assets/WaterproofFitness.webp"
+import CasualSport   from "../../assets/CasualSport.webp"
+import LEDBacklight   from "../../assets/LEDBacklight.webp"
+import MilitarySmartwatches from "../../assets/MilitarySmartwatches.webp"
+import DiamondRoman from "../../assets/DiamondRoman.webp"
 
 
 const Watches = [

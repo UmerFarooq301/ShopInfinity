@@ -1,11 +1,11 @@
-import BlueJoggers from "../../assets/BlueJoggers.PNG";
-import BlackCasual from "../../assets/BlackCasual.PNG"
-import BlackFormal  from "../../assets/BlackFormal.PNG"
-import BrownCasual  from "../../assets/BrownCasual.PNG"
-import BrownPeshawari  from "../../assets/BrownPeshawari.PNG"
-import BlackSofti  from "../../assets/BlackSofti.PNG"
-import NavyEthnic from "../../assets/NavyEthnic.PNG"
-import BlackEthnic from "../../assets/BlackEthnic.PNG"
+import BlueJoggers from "../../assets/BlueJoggers.webp";
+import BlackCasual from "../../assets/BlackCasual.webp"
+import BlackFormal  from "../../assets/BlackFormal.webp"
+import BrownCasual  from "../../assets/BrownCasual.webp"
+import BrownPeshawari  from "../../assets/BrownPeshawari.webp"
+import BlackSofti  from "../../assets/BlackSofti.webp"
+import NavyEthnic from "../../assets/NavyEthnic.webp"
+import BlackEthnic from "../../assets/BlackEthnic.webp"
 
 
 const FootWear = [

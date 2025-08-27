@@ -1,14 +1,14 @@
 import React from 'react';
-import PentShirtMen from '../../assets/Pent-shirtMen.PNG';
-import Watcheslist from '../../assets/Watcheslist.jpg';
-import MenCloths from '../../assets/MensCloths.PNG';
-import WomenCloths from '../../assets/WomenCloths.PNG'
-import MenShoes from '../../assets/Shoes.jpg';
-import Electronics from '../../assets/Electronics.jpg';
-import Grocery from '../../assets/Grocery.jpg';
-import KidsToys from '../../assets/KidsToys.jpg';
-import PetSupplies from '../../assets/Pet Supplies.jpg';
-import SportsAccessories from '../../assets/SportsAccessories.PNG';
+import PentShirtMen from '../../assets/Pent-shirtMen.webp';
+import Watcheslist from '../../assets/Watcheslist.webp';
+import MenCloths from '../../assets/MensCloths.webp';
+import WomenCloths from '../../assets/WomenCloths.webp'
+import MenShoes from '../../assets/Shoes.webp';
+import Electronics from '../../assets/Electronics.webp';
+import Grocery from '../../assets/Grocery.webp';
+import KidsToys from '../../assets/KidsToys.webp';
+import PetSupplies from '../../assets/Pet Supplies.webp';
+import SportsAccessories from '../../assets/SportsAccessories.webp';
 
 const categories = [
   {
